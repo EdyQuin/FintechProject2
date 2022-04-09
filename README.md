@@ -2,6 +2,7 @@
 ## Project 2 for UM Fintech BC
 ## Description
 + This project ("Project 2") is required by the UM BC class. Here, I will analyze datasets using Regression techniques and Natural Language techniques taught/learned in the UM class. The datasets focus on natural disasters and other disasters which have occured in the United States in the last 10-12 years. The datasets range from articles and tweets to time series data. Thus, the use of Regression techniques to analyze the time series data (continuous data) and attempt to make some predictions, and Natural Language Techniques to analyze the text data (categorical data) to understand what is being said/written. 
++ What can we use Machine Learning for? 
 
 ## Contributor
 + Eduardo "Edy" Quin
@@ -53,7 +54,7 @@
 + Government
 
 ## Final Word
-+ Machine Learning is a developing field and along with data science it can assist humnans in solving complex problems. The existing techniques are indispensible in certain domains, for example insurance and government, becuase of the time sensitivity of problems and the amount of data that needs to be examined and analyzed. 
++ Machine Learning is a developing field and along with data science it can assist humnans in solving complex problems. But, the existing techniques are indispensible in certain domains, for example insurance and government. Machine Learning can be used to classify and predict based on categorical and continuous data.  
 
 
 

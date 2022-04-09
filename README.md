@@ -31,17 +31,17 @@
 + Jupyter Lab
 
 ## Citations
-+NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2022). https://www.ncei.noaa.gov/access/monitoring/billions/, DOI: 10.25921/stkw-7w73
-+https://crisislex.org/data-collections.html#CrisisLexT26
-+https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
-+https://miami.bootcampcontent.com/Miami-Boot-Camp/mia-virt-fin-pt-11-2021-u-c/-/tree/master/01-Lesson-Plans
-+https://www.climate.gov/news-features/blogs/beyond-data/2021-us-billion-dollar-weather-and-climate-disasters-historical
-+https://data.sba.gov/dataset/
++ NOAA National Centers for Environmental Information (NCEI) U.S. Billion-Dollar Weather and Climate Disasters (2022). https://www.ncei.noaa.gov/access/monitoring/billions/, DOI: 10.25921/stkw-7w73
++ https://crisislex.org/data-collections.html#CrisisLexT26
++ https://towardsai.net/p/nlp/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
++ https://miami.bootcampcontent.com/Miami-Boot-Camp/mia-virt-fin-pt-11-2021-u-c/-/tree/master/01-Lesson-Plans
++ https://www.climate.gov/news-features/blogs/beyond-data/2021-us-billion-dollar-weather-and-climate-disasters-historical
++ https://data.sba.gov/dataset/
 
 ## Images
-+http://localhost:8888/lab/tree/data/tree.png
-+http://localhost:8888/lab/tree/data/TermFrequency.png
-+http://localhost:8888/lab/tree/data/InverseDocumentFrequency.png
++ http://localhost:8888/lab/tree/data/tree.png
++ http://localhost:8888/lab/tree/data/TermFrequency.png
++ http://localhost:8888/lab/tree/data/InverseDocumentFrequency.png
 
 ## The objective for Project 2
 + The objective for Project 2 is to showcase what we have learned so far in the UM BC class. Under Machine Learning there are two main categories utilized: 1. Classification and 2. Regression under either Supervised or Unsupervised models. This approach allows us to classify and predict based on data: for example time series data. Both models utilize regression techniques. Natual Language Processing, NLP, "allows us to process human language [using computers] so that i can be used in Machine Learning and Software Applications." NLP is a "sub-filed" of Artificial Intelligence, AI. Computer, or Machines, cannot readily work with natrual human language, or raw text. Thhus, we have to convert the text into "vector numbers" using NLP techniques. 

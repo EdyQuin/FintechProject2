@@ -8,7 +8,7 @@
 + Eduardo "Edy" Quin
 
 ## Usage
-+The analyses and visualizations are aimed to be educational and a display of what has been learned and understood so far by the student. However, this type of modeling is useful to insurance companies, construction companies/builders, and government agencies that focus on these types of events (natural disasters/other large scale disaster events). 
++ The analyses and visualizations are aimed to be educational and a display of what has been learned and understood so far by the student. However, this type of modeling is useful to insurance companies, construction companies/builders, and government agencies that focus on these types of events (natural disasters/other large scale disaster events). 
 
 ## Support
 + UM BC staff

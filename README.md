@@ -45,7 +45,7 @@
 + http://localhost:8888/lab/tree/data/InverseDocumentFrequency.png
 
 ## The objective for Project 2
-+ The objective for Project 2 is to showcase what we have learned so far in the UM BC class. Under Machine Learning there are two main categories utilized: 1. Classification and 2. Regression under either Supervised or Unsupervised models. This approach allows us to classify and predict based on data: for example, time series data. Both models utilize regression techniques. Natural Language Processing, NLP, "allows us to process human language [using computers] so that i can be used in Machine Learning and Software Applications." NLP is a "sub-filed" of Artificial Intelligence, AI. Computer, or Machines, cannot readily work with natural human language, or raw text. Thus, we have to convert the text into "vector numbers" using NLP techniques.
++ The objective for Project 2 is to showcase what we have learned so far in the UM BC class. Under Machine Learning there are two main categories utilized: 1. Classification and 2. Regression under either Supervised or Unsupervised models. This approach allows us to classify and predict based on data, for example, time series data. Both models utilize regression techniques. Natural Language Processing, NLP, "allows us to process human language [using computers] so that it can be used in Machine Learning and Software Applications." NLP is a "sub-filed" of Artificial Intelligence, AI. Computer, or Machines, cannot readily work with natural human language, or raw text. Thus, we have to convert the text into "vector numbers" using NLP techniques.
  
 ## Use cases 
 + Insurance
@@ -54,7 +54,7 @@
 + Government
 
 ## Final Word
-+ Machine Learning is a developing field and along with data science it can assist humans in solving complex problems. However, the existing techniques are indispensable in certain domains, for example insurance and government. Machine Learning can be used to classify and predict based on categorical and continuous data.
++ Machine Learning is a developing field and along with data science it can assist humans in solving complex problems. However, the existing techniques are indispensable in certain domains, for example finance, insurance, and government. Machine Learning can be used to classify and predict based on categorical and continuous data, but in order to classify or predict you require data. Using the tools referenced above, among many others, and the many technique available will save costs and time. 
 
 
 
